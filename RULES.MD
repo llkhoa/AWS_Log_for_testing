@@ -1,0 +1,1 @@
+Mỗi khi cần thông tin về AWS thì hãy đọc đến file [AWS_INSTRUCTION.md](AWS_INSTRUCTIONS.md)
